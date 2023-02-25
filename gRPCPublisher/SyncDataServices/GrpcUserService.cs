@@ -1,6 +1,5 @@
 ﻿using Google.Protobuf.WellKnownTypes;
 using Grpc.Core;
-using Mapster;
 
 namespace gRPCPublisher.SyncDataServices;
 

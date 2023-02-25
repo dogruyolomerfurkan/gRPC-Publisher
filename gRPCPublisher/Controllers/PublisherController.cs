@@ -2,7 +2,7 @@
 
 namespace gRPCPublisher.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("grpcpublisher/[controller]")]
     [ApiController]
     public class PublisherController : ControllerBase
     {
